@@ -20,5 +20,5 @@
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=larissacauane&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="larissacauane" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=larissacauane&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="larissacauane" /></p>
 
