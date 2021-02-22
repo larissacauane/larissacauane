@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Larissa</h1>
 <h3 align="center">An aspiring Front-End Developer</h3>
 
-🌱 I’m currently learning **React | Bootstrap | Pug | SQL**
+🌱 I’m currently learning - **React | Bootstrap | Pug | SQL**
 
-💬 Ask me about **HTML | CSS | JavaScript**
+💬 Ask me about - **HTML | CSS | JavaScript**
 
-📫 How to reach me **larissacauanesouza@gmail.com**
+📫 How to reach me - **larissacauanesouza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
