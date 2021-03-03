@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JavaScript and CSS**
 
-- 🌱 I’m currently learning **React, Pug and SQL Server**
+- 🌱 I’m currently learning **React and SQL Server**
 
 - 💬 Ask me about **JavaScript, CSS, HTML, Object-Oriented Programming**
 
