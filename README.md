@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Larissa</h1>
 <h3 align="center">An aspiring Front-End Developer</h3>
 
-- 🔭 I’m currently working on **JavaScript and CSS**
-
-- 🌱 I’m currently learning **React and SQL Server**
+- 🌱 I’m currently learning **JavaScript, CSS and React**
 
 - 💬 Ask me about **JavaScript, CSS, HTML, Object-Oriented Programming**
 
