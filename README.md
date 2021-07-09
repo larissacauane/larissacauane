@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Larissa</h1>
 <h3 align="center">An aspiring Front-End Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, CSS and React**
-
-- 💬 Ask me about **JavaScript, CSS, HTML, Object-Oriented Programming**
+- 🌱 I’m currently learning **Sass and React**
 
 - 📫 How to reach me **larissacauanesouza@gmail.com**
 
